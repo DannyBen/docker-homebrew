@@ -1,0 +1,4 @@
+services:
+  bash:
+    build: .
+    image: dannyben/homebrew
